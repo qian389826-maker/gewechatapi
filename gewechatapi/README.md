@@ -52,7 +52,7 @@
 **有任何帮助或疑问，请联系：gewechatapi**
 
 <p align="center">
-  <img src="contact-qr.svg" width="300px" height="375px" alt="联系二维码">
+  <img src="contact-qr.png" width="300px" height="375px" alt="联系二维码">
 </p>
 
 - 💬 微信：gewechatapi
