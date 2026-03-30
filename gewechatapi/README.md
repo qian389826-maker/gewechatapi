@@ -46,9 +46,13 @@
 
 **有任何帮助或疑问，请联系：gewechatapi**
 
+<p align="center">
+  <img src="contact-qr.svg" width="300px" height="375px" alt="联系二维码">
+</p>
+
 - 💬 微信：gewechatapi
 - 📧 邮箱：gewechatapi@example.com
-- 🐙 GitHub Issues：[提交问题](https://github.com/yourusername/gewechatapi/issues)
+- 🐙 GitHub Issues：[提交问题](https://github.com/qian389826-maker/gewechatapi/issues)
 
 ---
 
